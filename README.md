@@ -6,6 +6,6 @@ User login needs user email and password
 
 Default Admin credentials :
 
-Admin name : admin
-Mobile : 9007654321
-Password : admin12345
+Admin name : admin </br>
+Mobile : 9007654321  </br>
+Password : admin12345 </br>
