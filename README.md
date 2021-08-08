@@ -7,5 +7,5 @@ User login needs user email and password
 Default Admin credentials :
 
 Admin name : admin
-Mobile : 9007543210
-Password : admin123456
+Mobile : 9007654321
+Password : admin12345
